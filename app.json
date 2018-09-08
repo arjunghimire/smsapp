@@ -1,5 +1,12 @@
 {
+  "name": "SMSAPP",
+  "displayName": "SMSAPP",
+  "icon": {
+    "ios": "AwesomeProject-logo-iOS.png",
+    "android": "AwesomeProject-logo-android.png",
+    "default": "AwesomeProject-logo.png"
+  },
   "expo": {
     "sdkVersion": "27.0.0"
   }
-}
+} 

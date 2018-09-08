@@ -1,0 +1,3 @@
+rootProject.name = 'SMSAPP'
+
+include ':app'
